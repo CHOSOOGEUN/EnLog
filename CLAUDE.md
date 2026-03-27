@@ -94,6 +94,7 @@
 [🏢 엔로그 본사](https://www.notion.so/32e6c46c3c1081ff820ac33514a73cf4)
 - [📋 비전 & 전략](https://www.notion.so/32e6c46c3c10814092c2ff30d07002a3)
 - [🚀 MVP 스펙](https://www.notion.so/32e6c46c3c108141ba9bd2f8fc22156f)
+  - [🗄️ DB 설계](https://www.notion.so/DB-3306c46c3c108133afb4edaf04a512c2)
 - ✅ 작업 보드 (칸반)
 
 ---
@@ -107,7 +108,7 @@
 ## 📌 현재 진행 중인 작업
 
 - [ ] 화면 설계 (와이어프레임) — Figma 작업 중
-- [ ] DB 설계
+- [x] DB 설계 — 완료 (2026-03-27), Notion 문서화 완료
 - [ ] 랜딩 페이지 제작 (사전 등록)
 
 ---
